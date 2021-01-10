@@ -106,6 +106,9 @@ body, html {
     font-size: 28px;
     color: white;
   }
-  
 
+  @media only screen and (max-width: 768px) {
+    .bg{height: 100%;}
+    .card{height: 80%; width: 80%;}
   }
+  
