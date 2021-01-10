@@ -107,18 +107,4 @@ body, html {
     color: white;
   }
 
-  @media only screen and (min-width: 480px)  {
-    .bg{height: 100%;}
-    .card{height: 80%; width: 80%;}
-    .links li
-  {
-    color: #c0c0c0;
-    width: 100%;
-    text-align:center;
-    list-style: none;
-    margin: 0 10px;
-    transform: translateY(40px);
-    transition: 0.5%;
-    opacity: 1;
-   
-  }
+  
